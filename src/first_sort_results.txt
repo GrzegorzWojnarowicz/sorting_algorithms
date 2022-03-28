@@ -1,0 +1,182 @@
+ARRAY SIZE: 1000000 array sorted in 0%
+Execution time: 1336.295480 QUICKSORT
+Execution time: 161.928550 MERGE SORT
+Execution time: 347.683800 HEAP SORT
+ARRAY SIZE: 1000000 array sorted in 25.000000%
+Execution time: 1320.754500 QUICKSORT
+Execution time: 145.845350 MERGE SORT
+Execution time: 344.668810 HEAP SORT
+ARRAY SIZE: 1000000 array sorted in 50.000000%
+Execution time: 1799.175780 QUICKSORT
+Execution time: 128.810980 MERGE SORT
+Execution time: 333.578460 HEAP SORT
+ARRAY SIZE: 1000000 array sorted in 75.000000%
+Execution time: 1305.817210 QUICKSORT
+Execution time: 113.065470 MERGE SORT
+Execution time: 314.692080 HEAP SORT
+ARRAY SIZE: 1000000 array sorted in 95.000000%
+Execution time: 1303.879980 QUICKSORT
+Execution time: 98.414030 MERGE SORT
+Execution time: 294.427160 HEAP SORT
+ARRAY SIZE: 1000000 array sorted in 99.000000%
+Execution time: 1282.172820 QUICKSORT
+Execution time: 95.475240 MERGE SORT
+Execution time: 291.187760 HEAP SORT
+ARRAY SIZE: 1000000 array sorted in 99.699997%
+Execution time: 1286.646180 QUICKSORT
+Execution time: 95.495280 MERGE SORT
+Execution time: 291.245690 HEAP SORT
+ARRAY SIZE: 1000000 array sorted backwards
+
+ARRAY SIZE: 500000 array sorted in 0%
+Execution time: 370.242890 QUICKSORT
+Execution time: 78.804580 MERGE SORT
+Execution time: 179.934530 HEAP SORT
+ARRAY SIZE: 500000 array sorted in 25.000000%
+Execution time: 368.044860 QUICKSORT
+Execution time: 72.164640 MERGE SORT
+Execution time: 170.500710 HEAP SORT
+ARRAY SIZE: 500000 array sorted in 50.000000%
+Execution time: 527.236950 QUICKSORT
+Execution time: 62.983180 MERGE SORT
+Execution time: 164.022000 HEAP SORT
+ARRAY SIZE: 500000 array sorted in 75.000000%
+Execution time: 352.865370 QUICKSORT
+Execution time: 55.096410 MERGE SORT
+Execution time: 154.767280 HEAP SORT
+ARRAY SIZE: 500000 array sorted in 95.000000%
+Execution time: 347.003160 QUICKSORT
+Execution time: 46.813890 MERGE SORT
+Execution time: 144.982680 HEAP SORT
+ARRAY SIZE: 500000 array sorted in 99.000000%
+Execution time: 339.677490 QUICKSORT
+Execution time: 45.162520 MERGE SORT
+Execution time: 141.914050 HEAP SORT
+ARRAY SIZE: 500000 array sorted in 99.699997%
+Execution time: 344.569060 QUICKSORT
+Execution time: 45.966050 MERGE SORT
+Execution time: 140.249490 HEAP SORT
+ARRAY SIZE: 500000 array sorted backwards
+
+
+
+ARRAY SIZE: 100000 array sorted in 0%
+Execution time: 24.466980 QUICKSORT
+Execution time: 14.580770 MERGE SORT
+Execution time: 29.328640 HEAP SORT
+ARRAY SIZE: 100000 array sorted in 25.000000%
+Execution time: 23.907750 QUICKSORT
+Execution time: 13.039080 MERGE SORT
+Execution time: 32.397800 HEAP SORT
+ARRAY SIZE: 100000 array sorted in 50.000000%
+Execution time: 58.101260 QUICKSORT
+Execution time: 11.458020 MERGE SORT
+Execution time: 28.164450 HEAP SORT
+ARRAY SIZE: 100000 array sorted in 75.000000%
+Execution time: 21.596230 QUICKSORT
+Execution time: 9.839280 MERGE SORT
+Execution time: 26.489830 HEAP SORT
+ARRAY SIZE: 100000 array sorted in 95.000000%
+Execution time: 20.956110 QUICKSORT
+Execution time: 8.502430 MERGE SORT
+Execution time: 25.630400 HEAP SORT
+ARRAY SIZE: 100000 array sorted in 99.000000%
+Execution time: 19.298510 QUICKSORT
+Execution time: 8.074160 MERGE SORT
+Execution time: 26.440340 HEAP SORT
+ARRAY SIZE: 100000 array sorted in 99.699997%
+Execution time: 19.259760 QUICKSORT
+Execution time: 8.654700 MERGE SORT
+Execution time: 25.170680 HEAP SORT
+
+
+ARRAY SIZE: 50000 array sorted in 0%
+Execution time: 10.247560 QUICKSORT
+Execution time: 8.237050 MERGE SORT
+Execution time: 14.765140 HEAP SORT
+ARRAY SIZE: 50000 array sorted in 25.000000%
+Execution time: 8.661000 QUICKSORT
+Execution time: 6.108080 MERGE SORT
+Execution time: 13.750270 HEAP SORT
+ARRAY SIZE: 50000 array sorted in 50.000000%
+Execution time: 21.064000 QUICKSORT
+Execution time: 5.524950 MERGE SORT
+Execution time: 13.074830 HEAP SORT
+ARRAY SIZE: 50000 array sorted in 75.000000%
+Execution time: 7.545700 QUICKSORT
+Execution time: 4.526090 MERGE SORT
+Execution time: 12.364510 HEAP SORT
+ARRAY SIZE: 50000 array sorted in 95.000000%
+Execution time: 7.238300 QUICKSORT
+Execution time: 3.964470 MERGE SORT
+Execution time: 12.058610 HEAP SORT
+ARRAY SIZE: 50000 array sorted in 99.000000%
+Execution time: 6.514480 QUICKSORT
+Execution time: 3.821870 MERGE SORT
+Execution time: 11.617330 HEAP SORT
+ARRAY SIZE: 50000 array sorted in 99.699997%
+Execution time: 6.126640 QUICKSORT
+Execution time: 3.824720 MERGE SORT
+Execution time: 11.928290 HEAP SORT
+
+
+ARRAY SIZE: 10000 array sorted in 0%
+Execution time: 1.340630 QUICKSORT
+Execution time: 1.276350 MERGE SORT
+Execution time: 2.412180 HEAP SORT
+ARRAY SIZE: 10000 array sorted in 25.000000%
+Execution time: 1.276210 QUICKSORT
+Execution time: 1.151300 MERGE SORT
+Execution time: 2.336800 HEAP SORT
+ARRAY SIZE: 10000 array sorted in 50.000000%
+Execution time: 2.786170 QUICKSORT
+Execution time: 0.999970 MERGE SORT
+Execution time: 2.231950 HEAP SORT
+ARRAY SIZE: 10000 array sorted in 75.000000%
+Execution time: 1.014550 QUICKSORT
+Execution time: 0.830940 MERGE SORT
+Execution time: 2.197500 HEAP SORT
+ARRAY SIZE: 10000 array sorted in 95.000000%
+Execution time: 0.974440 QUICKSORT
+Execution time: 0.686460 MERGE SORT
+Execution time: 2.107210 HEAP SORT
+ARRAY SIZE: 10000 array sorted in 99.000000%
+Execution time: 0.799440 QUICKSORT
+Execution time: 0.659880 MERGE SORT
+Execution time: 2.129980 HEAP SORT
+ARRAY SIZE: 10000 array sorted in 99.699997%
+Execution time: 0.732080 QUICKSORT
+Execution time: 0.668830 MERGE SORT
+Execution time: 2.104210 HEAP SORT
+
+
+ARRAY SIZE: 10000 array sorted backwards
+Execution time: 0.759000 QUICKSORT
+Execution time: 0.860000 MERGE SORT
+Execution time: 2.039000 HEAP SORT
+
+
+ARRAY SIZE: 50000 array sorted backwards
+Execution time: 7.314000 QUICKSORT
+Execution time: 4.300000 MERGE SORT
+Execution time: 11.378000 HEAP SORT
+
+
+ARRAY SIZE: 100000 array sorted backwards
+Execution time: 19.487000 QUICKSORT
+Execution time: 8.162000 MERGE SORT
+Execution time: 24.050000 HEAP SORT
+
+
+ARRAY SIZE: 500000 array sorted backwards
+Execution time: 356.566000 QUICKSORT
+Execution time: 49.344000 MERGE SORT
+Execution time: 137.810000 HEAP SORT
+
+
+ARRAY SIZE: 1000000 array sorted backwards
+Execution time: 1324.419000 QUICKSORT
+Execution time: 101.435000 MERGE SORT
+Execution time: 318.665000 HEAP SORT
+
+
